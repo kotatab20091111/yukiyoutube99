@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: go-2-3-migane-jisaku
+    name: migane99jisaku
     env: python
     region: Oregon
     plan: free
