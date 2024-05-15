@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: plasmaru
+    name: dareyanenTV
     env: python
     region: Oregon
     plan: free
